@@ -1,6 +1,6 @@
 # Learning_Node.js
 
-This folder contains small projects that I have done during my online course at Udemy.
+This folder contains small projects that I have done during my online course at Udemy. Course link: https://www.udemy.com/course/the-complete-web-development-bootcamp/
 
 Technologies used are:
 1. JavaScript.
