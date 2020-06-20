@@ -20,3 +20,4 @@ Tech/tools used for this project are:
 4. JavaScript
 5. RESTful API
 6. Hyper Terminal
+7. Postman
