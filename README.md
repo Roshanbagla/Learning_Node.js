@@ -11,7 +11,7 @@ Technologies used are:
 
 
 Wiki-API Project: 
-I developed a simle RESTFul API tool, in which I have used Postman to send get, post, put, push and delete requests to my mongodb database using Node.js.
+I developed a simple RESTFul API tool, in which I have used Postman to send get, post, put, push and delete requests to my mongodb database using Node.js.
 
 Tech/tools used for this project are:
 1. MongoDB database.
